@@ -1,6 +1,6 @@
 # Afficher_fichiers_dans_une_page_web
 
-Le script utilise Flask pour créer une application Web qui affiche une liste de fichiers dans le répertoire courant 
+Le script utilise Flask pour créer une application Web qui affiche une liste de fichiers dans le répertoire courant ainsi que les sous-dossiers 
 avec leur nom, type, taille et date de modification. Les fichiers sont triés par ordre alphabétique et affichés 
 dans un tableau d'une page Web. 
 
